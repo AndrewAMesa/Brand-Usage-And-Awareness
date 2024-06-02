@@ -7,4 +7,4 @@ Instructions to Run Code
 2. Ensure pip is downloaded.
 3. Install necessary libraries using pip (e.g. Pandas, Seaborn, Matplotlib, etc.).
 4. Copy files in this repository to your local machine.
-5. Run the Python files. Created graphs are saved and downloaded into the folder holding this code on yout device. Graphs can also be viewed by uncommenting plt.show(), but issues with viewing them may occur.
+5. Run the analysis.py. Created graphs are saved and downloaded into the folder holding this code on yout device. Graphs can also be viewed by uncommenting plt.show(), but issues with viewing them may occur.
