@@ -1,5 +1,5 @@
 # Brand-Usage-And-Awareness
-This Python code was created and utilized in a project titled " Improving Brand Recognition and Association for Poetry Organizations". This code was used to analyze survey responses about brand awareness and usage on the parent brand and subsidiaries of the project's sponsor, Haus für Poesie. Haus für Poesie is a poetry house in Berlin, Germany, with many subsidiaries. The panda's library, correlation matrices, and bar charts were utilized in this analysis.
+This Python code was created and utilized in a project titled " Improving Brand Recognition and Association for Poetry Organizations". This code was used to analyze survey responses about brand awareness and usage on the parent brand and subsidiaries of the project's sponsor, Haus für Poesie. Haus für Poesie is a poetry house in Berlin, Germany, and has many subsidiaries. The pandas' library, correlation matrices, and bar charts were utilized in this analysis.
 
 Instructions to Run Code
 
