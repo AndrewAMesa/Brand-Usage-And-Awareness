@@ -12,8 +12,8 @@ random.seed(randomSeed)
 np.random.seed(randomSeed)
  
 # Load a CSV file into a DataFrame
-# df = pd.read_csv("Haus für Poesie-Survey Data.csv"
-df = pd.read_csv("lyrikline-Survey Data.csv")
+df = pd.read_csv("Haus für Poesie-Survey Data.csv")
+#df = pd.read_csv("lyrikline-Survey Data.csv")
  
 # Split the 'Sub_Awareness' column into multiple binary columns based on comma-separated values
 catSeries = df['Brands they are Aware Of']
@@ -75,8 +75,8 @@ plt.xticks(fontsize=28 + multiplier)
 plt.yticks(fontsize=28 + multiplier)
  
 # Adding a title to the heatmap
-# plt.title('Correlation Matrix with Awareness and Usage of Brands: Haus für Poesie', fontsize=30 + multiplier)
-plt.title('Correlation Matrix with Awareness and Usage of Brands: lyrikline', fontsize=30 + multiplier)
+plt.title('Correlation Matrix with Awareness and Usage of Brands: Haus für Poesie', fontsize=30 + multiplier)
+# plt.title('Correlation Matrix with Awareness and Usage of Brands: lyrikline', fontsize=30 + multiplier)
  
 # Saving the plotted figure as a PNG image
 plt.savefig('correlation_matrix.png', transparent=True)
